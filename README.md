@@ -3,7 +3,7 @@
 
 ## About Me
 
-Hey there! I'm Lucas. I am a student trying to learn cool stuff. Self taught for the most part, and i like Javascript. Also, i'm looking for jobs/internships.
+Hey there! I'm Lucas. I am a student trying to learn some cool stuff, like Rust. Self taught for the most part, and i like Javascript. Also, i'm looking for jobs/internships.
 
 
 
