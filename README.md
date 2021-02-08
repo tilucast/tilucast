@@ -13,6 +13,6 @@ If you feel like it, you can check my latest project: https://rickandmortygui.ne
 
 <p  align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tilucast&show_icons=true&theme=radical&hide=stars,contribs) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tilucast&show_icons=true&theme=radical&hide=stars,contribs) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tilucast&layout=compact&theme=radical)
 
 </p>
