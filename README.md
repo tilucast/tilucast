@@ -12,7 +12,7 @@ If you feel like it, you can check my latest project: https://rickandmortygui.ne
  
  ### Stack
  
- As i said above, i like Javascript. Pretty much anything related to it draws my attention. I have a plenty of projects with enumerous Js libs and frameworks, like Vue, React, Angular, React Native, NodeJS, etc. I am not really into this or that framework, my approach is pretty much learning the general stuff, and then, when needed, apply what i know on any tecnology required for a specific project.
+ As i said above, i like Javascript. Pretty much anything related to it draws my attention. I have a plenty of projects with enumerous Js libs and frameworks, like Vue, React, Angular, React Native, NodeJS, etc. I am not really into this or that framework. My approach towards learning how to code is pretty much learning the general stuff, and then, when needed, apply what i know on any tecnology required for a specific project.
  
  Besides Javascript, i am learning Rust now, and i'll give Go a try pretty soon.
  
