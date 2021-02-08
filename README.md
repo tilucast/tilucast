@@ -5,9 +5,9 @@
 
 Hey there! I'm Lucas. I am a student trying to learn cool stuff. Self taught for the most part, and i like Javascript. Also, i'm looking for jobs/internships.
 
-  
 
-If you feel like it, you check my latest project: https://rickandmortygui.netlify.app
+
+If you feel like it, you can check my latest project: https://rickandmortygui.netlify.app
 
   
 
