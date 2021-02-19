@@ -7,7 +7,7 @@ Hey there! I'm Lucas. I am a student trying to learn some cool stuff, like Rust.
 
 
 
-If you feel like it, you can check my latest project: https://rickandmortygui.netlify.app
+If you feel like it, you can check my latest project: https://rickandmortywebsite.netlify.app
 
  
  ### Stack
