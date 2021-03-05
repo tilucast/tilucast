@@ -1,4 +1,4 @@
-######  Armin Van Buuren - Mirage 
+######  Catch The Rainbow - Blackmore
 ![alt text](https://i.ytimg.com/vi/bbujU9Jp6h0/maxresdefault.jpg "Logo Title Text 1")
 
 ## About Me
