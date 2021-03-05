@@ -1,5 +1,5 @@
 ######  Armin Van Buuren - Mirage 
-![alt text](https://i.ytimg.com/vi/mfJC34tOZms/maxresdefault.jpg "Logo Title Text 1")
+![alt text](https://i.ytimg.com/vi/bbujU9Jp6h0/maxresdefault.jpg "Logo Title Text 1")
 
 ## About Me
 
