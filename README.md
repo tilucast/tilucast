@@ -1,5 +1,5 @@
-######  Gyro Zeppeli
-![alt text](https://static.wikia.nocookie.net/jjba/images/9/9d/Gyrocor.png/revision/latest?cb=20150131172721&path-prefix=pt-br "Logo Title Text 1")
+######  D4C - Love Train
+![alt text](https://static.jojowiki.com/images/1/19/latest/20200823001358/D4C_Love_Train_Infobox_Manga.JPG "Logo Title Text 1")
 
 ## About Me
 
