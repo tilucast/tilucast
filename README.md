@@ -1,4 +1,4 @@
-######  Catch The Rainbow - Blackmore
+######  Gyro Zeppeli
 ![alt text](https://static.wikia.nocookie.net/jjba/images/9/9d/Gyrocor.png/revision/latest?cb=20150131172721&path-prefix=pt-br "Logo Title Text 1")
 
 ## About Me
