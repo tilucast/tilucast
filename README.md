@@ -11,7 +11,7 @@ If you feel like it, you can check my latest projects:
 
 https://rickandmortywebsite.netlify.app
 https://marvel-api-next-js.vercel.app/
-[alt_text](https://luby-repo-pvyqay1e4-tilucast.vercel.app/ "Github Shitty Clone")
+[go](https://luby-repo-pvyqay1e4-tilucast.vercel.app){:target="_blank"}
  
  ### Stack
  
