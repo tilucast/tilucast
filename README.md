@@ -1,5 +1,5 @@
 ######  Catch The Rainbow - Blackmore
-![alt text](https://i.ytimg.com/vi/bbujU9Jp6h0/maxresdefault.jpg "Logo Title Text 1")
+![alt text](https://static.wikia.nocookie.net/jjba/images/9/9d/Gyrocor.png/revision/latest?cb=20150131172721&path-prefix=pt-br "Logo Title Text 1")
 
 ## About Me
 
