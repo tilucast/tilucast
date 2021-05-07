@@ -1,5 +1,5 @@
-######  D4C - Love Train
-![alt text](https://static.jojowiki.com/images/1/19/latest/20200823001358/D4C_Love_Train_Infobox_Manga.JPG "Logo Title Text 1")
+###### Blackmore - Catch the Rainbow
+![alt text](https://i.ytimg.com/vi/bbujU9Jp6h0/maxresdefault.jpg "Logo Title Text 1")
 
 ## About Me
 
