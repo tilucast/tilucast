@@ -3,24 +3,22 @@
 
 ## About Me
 
-Hey there! I'm Lucas. I am a student trying to learn some cool stuff, like Rust. Self taught for the most part, and i like Javascript. Also, i'm looking for jobs/internships.
-
+Hey there! I'm Lucas. I like Rust, Go, and Javascript. Self taught for the most part. Also, i'm looking for jobs/internships.
 
 
 If you feel like it, you can check my latest projects:
 
 https://rickandmortywebsite.netlify.app/
+
 https://marvel-api-next-js.vercel.app/
+
 https://shitty-github-clone.vercel.app/
  
  ### Stack
  
- As i said above, i like Javascript. Pretty much anything related to it draws my attention. I have a plenty of projects with enumerous Js libs and frameworks, like Vue, React, Angular, React Native, NodeJS, etc. I am not really into this or that framework. My approach towards learning how to code is pretty much learning the general stuff, and then, when needed, apply what i know on any tecnology required for a specific project.
- 
- Besides Javascript, i am learning Rust now, and i'll give Go a try pretty soon.
- 
- 
- 
+I'm primarily a javascript dev. I don't feel passionate about any specific framework or tecnology on the frontend spectrum of web development. Give me a decent documentation and i'll be able to learn whatever you throw at me. That being said, i do have more experience with React than Angular or Vue.
+
+Backend is too big for me to say that i actually know what i'm doing. However, i can actually make shitty apis with node.
 
 <p  align="center">
 
