@@ -16,9 +16,9 @@ https://shitty-github-clone.vercel.app/
  
  ### Stack
  
-I'm primarily a javascript dev. I don't feel passionate about any specific framework or tecnology on the frontend spectrum of web development. Give me a decent documentation and i'll be able to learn whatever you throw at me. That being said, i do have more experience with React than Angular or Vue.
+I'm primarily a javascript dev. I don't feel passionate about any specific framework or tecnology on the frontend spectrum of web development. Give me a decent documentation and i'll be ready to go.
 
-Backend is too big for me to say that i actually know what i'm doing. However, i can actually make shitty apis with node.
+Backend is too big for me to say that i actually know what i'm doing.
 
 <p  align="center">
 
