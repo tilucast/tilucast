@@ -3,7 +3,7 @@
 
 ## About Me
 
-Hey there! I'm Lucas. I like Rust, Go, and Javascript. Self taught for the most part. Also, i'm looking for jobs/internships.
+I like Rust, Go, and Javascript. Self taught for the most part. Also, i'm looking for jobs/internships.
 
 
 If you feel like it, you can check my latest projects:
@@ -16,7 +16,7 @@ https://shitty-github-clone.vercel.app/
  
  ### Stack
  
-I'm primarily a javascript dev. I don't feel passionate about any specific framework or tecnology on the frontend spectrum of web development. Give me a decent documentation and i'll be ready to go.
+I'm primarily a javascript dev. I don't feel passionate about any specific framework or tecnology on the frontend spectrum of web development. Give me a decent documentation and i'll give it a try.
 
 Backend is too big for me to say that i actually know what i'm doing.
 
