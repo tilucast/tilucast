@@ -16,7 +16,7 @@ https://shitty-github-clone.vercel.app/
  
  ### Stack
  
-I'm primarily a javascript dev. I don't feel passionate about any specific framework or tecnology on the frontend spectrum of web development. Give me a decent documentation and i'll give it a try.
+I'm primarily a javascript dev. I don't feel passionate about any specific framework or tecnology on the frontend spectrum of web development (except for svelte tho. So far, the best frontend framework i've worked with. Props to the team designing it). Give me a decent documentation and i'll give it a try.
 
 Backend is too big for me to say that i actually know what i'm doing.
 
