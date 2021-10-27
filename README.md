@@ -3,7 +3,7 @@
 
 ## About Me
 
-I like Rust, Go, and Javascript. Self taught for the most part. Also, i'm looking for jobs/internships.
+I like Rust, Kotlin, and Javascript. Self taught for the most part. Also, i'm looking for jobs/internships.
 
 
 If you feel like it, you can check my latest projects:
