@@ -3,25 +3,9 @@
 
 ## About Me
 
-I like Rust, Kotlin, and Javascript. Self taught for the most part. Also, i'm looking for jobs/internships.
-
-
-If you feel like it, you can check my latest projects:
-
-https://rickandmortywebsite.netlify.app/
-
-https://marvel-api-next-js.vercel.app/
-
-https://shitty-github-clone.vercel.app/
+I like working out and coding. I'm currently enrolled on a post graduate course on Applied AI Engineering. English: Upper-intermediate to advanced (B2/C1). Currently preparing for the IELTS exam, which I plan to take in the coming weeks, with a target score of 7.0.
  
  ### Stack
  
-I'm primarily a javascript dev. I don't feel passionate about any specific framework or tecnology on the frontend spectrum of web development (except for svelte tho. So far, the best frontend framework i've worked with. Props to the team designing it). Give me a decent documentation and i'll give it a try.
+I'm a fullstack Web Developer. I can work with any language but i have a ton of experience with Javascript. I've been working on the industry for the past 4 years. Currently looking for opportunities, and i'm working on updating my Github repo to reflect those changes.
 
-Backend is too big for me to say that i actually know what i'm doing.
-
-<p  align="center">
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tilucast&show_icons=true&theme=radical&hide=stars,contribs) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tilucast&layout=compact&theme=radical)
-
-</p>
